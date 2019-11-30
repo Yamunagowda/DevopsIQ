@@ -1,2 +1,2 @@
-FROM yamunagowda/devops
-ADD ./index.html /var/www/html
+FROM hshar/webapp
+ADD . /var/www/html/devopsIQ

@@ -1,2 +1,2 @@
-FROM yamunagowda
-ADD ./index.html /var/www/html/
+FROM yamunagowda/webapp
+ADD ./index.html /var/www/html
